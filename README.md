@@ -18,7 +18,7 @@ The server keeps track of client disconnects.
 3. no. of clients is determined with #define MAX_CLIENTS
 4. server is active on localhost adress
 
--how i tested:
+- how i tested:
 1. "make valgrind_chat" in the directory
 2. I connected with nc (netcat) over multiple terminals using the command "netcat localhost 7000"
   
