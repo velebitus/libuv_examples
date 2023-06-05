@@ -33,5 +33,5 @@ If the program receives more files to track than defined, it will ignore the fil
 2. max time that user can input is defined with #define MAX_TIME
 3. poll rate is defined with #define POLL_EVERY_MS
 
--how i tested: "make valgrind_poll" in the directory, and in the other terminal use "make touch" in the directory
+- how i tested: "make valgrind_poll" in the directory, and in the other terminal use "make touch" in the directory
   
